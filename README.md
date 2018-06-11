@@ -26,3 +26,5 @@ make
 `mouse wheel` to zoom  
 `1` to focus on the Sun  
 `2` to focus on the Earth
+
+![sample image](https://github.com/billg1990/OpenGLSolarSystem/blob/master/sample.png "sample image")
